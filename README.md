@@ -1,8 +1,6 @@
 # Cybersecurity
 
-1. Ogarnij podstawy pythona
-2. Kali linux ogarnij na wiekszy poziom
-(https://www.youtube.com/watch?v=Y1KtqlmjZAI&t=748s)
+https://www.youtube.com/watch?v=HzUythyPN9M
 
 
 Znajomość systemów operacyjnych i sieci komputerowych - Pracownik SOC musi posiadać dogłębną znajomość systemów operacyjnych, sieci komputerowych, protokołów i usług. Powinien znać najnowsze metody ataków, takie jak ransomware, DDoS czy phishing.
