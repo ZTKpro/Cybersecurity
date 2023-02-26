@@ -38,6 +38,8 @@ HiddenEye - modern tool for phising
 
 Beelogger - email keylogger
 
+Spyrix - keylogger with extend scrrenshot clipboard and else
+
 https://www.youtube.com/watch?v=HzUythyPN9M
 
 https://www.youtube.com/watch?v=nj1eb9KEC7s&t=159s
