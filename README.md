@@ -34,6 +34,8 @@ http://www.insecam.org
 
 dnsmap - tool to check domain owner
 
+Shellphish - tool for phising
+
 https://www.youtube.com/watch?v=HzUythyPN9M
 
 https://www.youtube.com/watch?v=nj1eb9KEC7s&t=159s
