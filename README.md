@@ -34,7 +34,7 @@ http://www.insecam.org
 
 dnsmap - tool to check domain owner
 
-Shellphish - tool for phising
+HiddenEye - modern tool for phising
 
 https://www.youtube.com/watch?v=HzUythyPN9M
 
