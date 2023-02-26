@@ -40,6 +40,8 @@ Beelogger - email keylogger
 
 Spyrix - keylogger with extend scrrenshot clipboard and else
 
+airdump - app to monitor wifi
+
 https://www.youtube.com/watch?v=HzUythyPN9M
 
 https://www.youtube.com/watch?v=nj1eb9KEC7s&t=159s
