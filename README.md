@@ -36,6 +36,8 @@ dnsmap - tool to check domain owner
 
 HiddenEye - modern tool for phising
 
+Beelogger - email keylogger
+
 https://www.youtube.com/watch?v=HzUythyPN9M
 
 https://www.youtube.com/watch?v=nj1eb9KEC7s&t=159s
