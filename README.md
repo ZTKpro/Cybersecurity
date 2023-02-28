@@ -28,6 +28,8 @@ Here is my badge and a [link to my profile](https://www.hackthebox.eu/profile/46
 
 #### Useful page:
 
+https://vagon.io/pricing - streaming computer
+
 http://www.insecam.org
 
 #### Tools:
